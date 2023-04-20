@@ -38,8 +38,7 @@
                         <configuration>
                             <failOnError>false</failOnError>
                             <doclint>none</doclint>
-                            <javadocExecutable>/Library/Java/JavaVirtualMachines/jdk-13.0.2.jdk/Contents/Home/bin
-/javadoc</javadocExecutable>
+                            <javadocExecutable>/Library/Java/JavaVirtualMachines/jdk-13.0.2.jdk/Contents/Home/bin/</javadocExecutable>
                         </configuration>
                     </execution>
                 </executions>
