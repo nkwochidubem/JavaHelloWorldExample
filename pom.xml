@@ -38,7 +38,8 @@
                         <configuration>
                             <failOnError>false</failOnError>
                             <doclint>none</doclint>
-                            <javadocExecutable>C:\Program Files\Java\jdk1.8.0\bin\javadoc.exe</javadocExecutable>
+                            <javadocExecutable>/Library/Java/JavaVirtualMachines/jdk-13.0.2.jdk/Contents/Home/bin
+/javadoc</javadocExecutable>
                         </configuration>
                     </execution>
                 </executions>
